@@ -11,7 +11,13 @@
   <li><a href="https://github.com/alanmichelin/MERN-expense_manager">Expense Manager<a/></li>  
      
 </ul>
+<div style="width: 20%; float:left">
+   #left content in here
+</div>
 
+<div style="width: 80%; float:right">
+   #right content in there
+</div>
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-AD6E09?style=flat&logo=HTML5&logoColor=252424)&nbsp;
