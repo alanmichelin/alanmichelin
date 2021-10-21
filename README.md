@@ -11,11 +11,9 @@
   <li><a href="https://github.com/alanmichelin/MERN-expense_manager">Expense Manager<a/></li>  
      
 </ul>
-<p float="left">
-  <p  width="100" >test 1</p>
-  <p  width="100" >test 2</p>
-</p>
-### 🛠 &nbsp;Tech Stack
+<table>
+  <tr>
+    <td>### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-AD6E09?style=flat&logo=HTML5&logoColor=252424)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-097CAD?style=flat&logo=CSS3&logoColor=252424)&nbsp;
@@ -29,8 +27,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2770AB?style=flat&logo=visual-studio-code&logoColor=252424)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-6962CB?style=flat&logo=eclipse-ide&logoColor=252424)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-9C6903?style=flat&logo=Mysql&logoColor=252424)
-### ⚙ &nbsp;Github stats
+    </td>
+     <td>
+    ### ⚙ &nbsp;Github stats
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmichelin&layout=compact&langs_count=5&theme=algolia"/>
+
+    </td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  </table>
+
 
 ### 🤝🏻 &nbsp;Contact me
 
