@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>Welcome to my github.
-  Here you will see a variety of projects i have been doing in the last 2 years.<br/> 
+  Here you will see a variety of projects i have been doing in the last year.<br/> 
   If you want to visit my portfolio please <a href="alanmichelin.netlify.app"> CLICK HERE </a>
   </p>
 
