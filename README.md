@@ -6,7 +6,10 @@
 
 ### ⭐&nbsp;My TOP 3 favourite projects
 <ul>
-  <li><a href=""https://github.com/alanmichelin/VideoDownloader>VideoDownloader<a/></li>  
+  <li><a href="https://github.com/alanmichelin/VideoDownloader">Video Downloader<a/></li>  
+  <li><a href="https://github.com/alanmichelin/portfolio">Personal portfolio<a/></li>  
+  <li><a href="https://github.com/alanmichelin/MERN-expense_manager">Expense Manager<a/></li>  
+     
 </ul>
 
 ### 🛠 &nbsp;Tech Stack
