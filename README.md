@@ -11,10 +11,10 @@
   <li><a href="https://github.com/alanmichelin/MERN-expense_manager">Expense Manager<a/></li>  
      
 </ul>
-<table border="0">
+<table>
   <tr>
-    <td>### 🛠 &nbsp;Tech Stack
-
+    <td>
+      ### 🛠 &nbsp;Tech Stack
     ![HTML](https://img.shields.io/badge/-HTML-AD6E09?style=flat&logo=HTML5&logoColor=252424)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-097CAD?style=flat&logo=CSS3&logoColor=252424)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-AEA009?style=flat&logo=javascript&logoColor=252424)&nbsp;
@@ -31,9 +31,7 @@
      <td>
     ### ⚙ &nbsp;Github stats
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmichelin&layout=compact&langs_count=5&theme=algolia"/>
-
-    </td>
-    
+    </td> 
   </tr>
   </table>
 
