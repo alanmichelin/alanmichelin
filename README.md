@@ -6,18 +6,18 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-AD6E09?style=flat&logo=HTML5&logoColor=575757)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-AD6E09?style=flat&logo=HTML5&logoColor=252424)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-097CAD?style=flat&logo=CSS3&logoColor=252424)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-AEA009?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2709AD?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Java](https://img.shields.io/badge/-Java-AD3709?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-0945AD?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-438B03?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
-![GitHub](https://img.shields.io/badge/-GitHub-F1F1F1?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![MySql](https://img.shields.io/badge/-MySQL-3423A6?style=flat&logo=Mysql&logoColor=white)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-AEA009?style=flat&logo=javascript&logoColor=252424)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2709AD?style=flat&logo=bootstrap&logoColor=252424)\
+![Java](https://img.shields.io/badge/-Java-AD3709?style=flat&logo=Java&logoColor=252424)&nbsp;
+![React](https://img.shields.io/badge/-React-0945AD?style=flat&logo=react&logoColor=252424)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-438B03?style=flat&logo=node.js&logoColor=252424)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=252424)\
+![GitHub](https://img.shields.io/badge/-GitHub-F1F1F1?style=flat&logo=github&logoColor=252424)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=252424)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=252424)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL-3423A6?style=flat&logo=Mysql&logoColor=252424)\
 <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmichelin&layout=compact&langs_count=5&theme=algolia"/>
 
  ### 🤝🏻 &nbsp;Contact me
