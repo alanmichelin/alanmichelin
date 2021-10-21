@@ -18,7 +18,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2770AB?style=flat&logo=visual-studio-code&logoColor=252424)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-6962CB?style=flat&logo=eclipse-ide&logoColor=252424)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-9C6903?style=flat&logo=Mysql&logoColor=252424)\
-<img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmichelin&layout=compact&langs_count=5&theme=algolia"/>
+### ⚙ & %nbsp; Github stats
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmichelin&layout=compact&langs_count=5&theme=algolia"/>
 
  ### 🤝🏻 &nbsp;Contact me
 
