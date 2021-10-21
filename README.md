@@ -27,7 +27,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-6962CB?style=flat&logo=eclipse-ide&logoColor=252424)
 
 ### ⚙ &nbsp;Github stats
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmichelin&layout=compact&langs_count=5&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmichelin&layout=compact&langs_count=7&theme=algolia"/>
 
 
 
