@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>Welcome to my github.
   Here you will see a variety of projects i have been doing in the last year.<br/> 
-  If you want to visit my portfolio please <a href="alanmichelin.netlify.app"> CLICK HERE </a>
+  If you want to visit my portfolio please <a href="https://alanmichelin.netlify.app"> CLICK HERE </a>
   </p>
 
 ### ⭐&nbsp;My TOP 3 favourite projects
